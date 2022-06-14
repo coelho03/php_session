@@ -32,7 +32,7 @@ body{
 
 	background-color: #606c38;
 }
-input{
+#campo_login{
 	background-color: #F2F2F2;
 	border-radius: 10px;
 	border-style: none;
