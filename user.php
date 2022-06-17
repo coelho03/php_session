@@ -40,7 +40,7 @@
 		<body>
 			<center>
 				<h1> USER </h1>
-				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/User_font_awesome.svg/2048px-User_font_awesome.svg.png">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/User_font_awesome.svg/2048px-User_font_awesome.svg.png" height="800px" width="800px">
 			</center>
 		</body>
 		</html>
