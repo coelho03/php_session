@@ -1,0 +1,89 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	height: 100%;
+}
+#site{
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+	background-color: #FCF9C6;
+}
+#painel{
+	height: 40%;
+	width: 30%;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	background-color: #9EB23B;
+	border-radius: 14px;
+	padding: 20px;
+}
+.coluna{
+	width: 100%;
+	height: 45%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.item{
+	height: 100%;
+	width: 48%;
+	font-size: 30px;
+	text-decoration: none;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background-color: #C7D36F;
+}
+a:link{
+	color: #000;
+}
+a:visited{
+	color: #E0DECA;
+}
+
+/* Página USER */
+
+#painel_user{
+	height: 27%;
+	width: 40%;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	background-color: #9EB23B;
+	border-radius: 14px;
+	padding: 20px;
+}
+#coluna_user{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+	height: 100%;
+}
+
+.item_user{
+	background-color: #C7D36F;
+	width: 48%;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+	color: #000;
+	text-decoration: none;
+}
