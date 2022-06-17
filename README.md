@@ -5,5 +5,3 @@ user: 'root'
 senha: 'usbw'
 
 Qualquer login cadastrado que seja diferente desta combinação, tem acesso a apenas duas páginas do site.
-
-Atual problema: o usuário consegue entrar com inserção de link direta.
